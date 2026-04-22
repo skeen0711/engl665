@@ -1,5 +1,3 @@
-// Table data - auto-generated from table1.csv
-const tableData = `
 ﻿Epistemology:,,Epistemology:
 Biomedical/Empiricist Model,,Cultural/Hermeneutic Model
 ,Priscilla Wald. Contagious. 2008.,
@@ -32,4 +30,3 @@ None of the main protagonists contract the virus,View of the Ill,Everyone is inf
 "“The imagination knows God first and foremost as overwhelming power, a sublime power before which ‘we are, in a manner, annihilated.’ Burke appeals to the sublime imaginations of the Old Testament for testimony to the enduring frightfulness of God for humanity” (204).",,"“Burke places Jesus, therefore, on the female side; it is Christianity that has ‘humanized’ notions of God, rendered God approachable by softening the terrors of sublimity alone” (204)."
 ,,
 ,,Jesus as healer (78)
-`;
